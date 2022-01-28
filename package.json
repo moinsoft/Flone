@@ -1,0 +1,22 @@
+{
+  "name": "Flone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass ./scss/style.scss ./css/style.css",
+    "sass:watch": "sass --watch ./scss/style.scss ./css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pe7-icon": "^1.0.4",
+    "sass": "^1.49.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^5.1.3"
+  }
+}
